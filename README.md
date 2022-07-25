@@ -1,8 +1,8 @@
-<div align="center">
 
-  Olá!! Eu sou o Jonathan Pablo
+ <div align = "center"> Olá!! Eu sou o Jonathan Pablo </div>
 
-</div>
+##
+
 <div align="center">
   <a href="https://github.com/ojonathanpablo">
   <img height="100%" src="https://github-readme-stats.vercel.app/api?username=ojonathanpablo&show_icons=true&theme= tokyonight&include_all_commits=true&count_private=true"/>
