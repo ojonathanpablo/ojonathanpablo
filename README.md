@@ -1,5 +1,5 @@
-#  <div align="center"> Olá Eu Sou o Jonathan </div>
- ## <div align="center">   Sempre aprendendo....  </div> 
+#  <div align="center"> Olá meu nome é Jonathan </div>
+ ## <div align="center">   Desenvolvendo soluções   </div> 
 
 ##
 
