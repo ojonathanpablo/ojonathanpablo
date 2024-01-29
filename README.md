@@ -1,5 +1,5 @@
 #  <div align="center"> Olá meu nome é Jonathan </div>
- ## <div align="center">   Desenvolvendo soluções   </div> 
+ ## <div align="center"> Desenvolvo soluções </div> 
 
 <div align="center">
   <a href="https://github.com/ojonathanpablo">
