@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathan-pablo-b99239241/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:contato.jonathanpablo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <img src="https://komarev.com/ghpvc/?username=ojonathanpablo&style=for-the-badge&color=blueviolet&label=visitas" alt="Visitas ao perfil">
+  <a href="https://mail.google.com/mail/?view=cm&to=contato.jonathanpablo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/contato.jonathanpablo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="contato.jonathanpablo@gmail.com"></a>
+  <img src="https://komarev.com/ghpvc/?username=ojonathanpablo&style=for-the-badge&color=blueviolet&label=visitas+ao+perfil" alt="Visitas ao perfil">
 </p>
 
 ---
@@ -43,16 +43,17 @@
 ### 📊 Quanto eu codifico
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ojonathanpablo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojonathanpablo&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contribuições no ano">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ojonathanpablo&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Commits por hora do dia">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas">
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ojonathanpablo&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens com mais commits">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositórios por linguagem">
 </p>
 
 <p align="center">
